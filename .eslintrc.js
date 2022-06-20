@@ -1,6 +1,8 @@
 module.exports = {
   "env": {
     "browser": true,
+    //dodano node
+    "node": true,
     "es6": true,
     "jest/globals": true
   },
