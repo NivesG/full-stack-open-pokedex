@@ -35,3 +35,4 @@ jobs:
           heroku_email: "deimusx11@gmail.com"
           healthcheck: "https://full-stack-open-pokedex-deimus.herokuapp.com/health"
           checkstring: "ok"
+          rollbackonhealthcheckfailed: true
